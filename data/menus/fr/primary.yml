@@ -48,6 +48,13 @@ items:
     children: []
     path: "/pages/femmes/violette-dorange"
     file: content/fr/pages/femmes/violette-dorange/_index.html
+  - title: Camille Claudel
+    target: "/femmes/camille-claudel/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/camille-claudel"
+    file: content/fr/pages/femmes/camille-claudel/_index.html
   - title: Geneviève Beney
     target: "/femmes/genevieve-beney/"
     kind: page
@@ -83,13 +90,6 @@ items:
     children: []
     path: "/pages/femmes/simone-veil"
     file: content/fr/pages/femmes/simone-veil/_index.html
-  - title: Camille Claudel
-    target: "/femmes/camille-claudel/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/camille-claudel"
-    file: content/fr/pages/femmes/camille-claudel/_index.html
   - title: Ítala Fulvia Villa
     target: "/femmes/itala-fulvia-villa/"
     kind: page
