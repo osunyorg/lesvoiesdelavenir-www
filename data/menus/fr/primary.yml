@@ -57,4 +57,11 @@ items:
   children: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
+- title: Françoise Barré-Sinoussi
+  target: "/femmes/francoise-barre-sinoussi/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/femmes/francoise-barre-sinoussi"
+  file: content/fr/pages/femmes/francoise-barre-sinoussi/_index.html
 
