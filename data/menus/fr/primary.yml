@@ -15,4 +15,9 @@ items:
   children: []
   path: "/pages/alice-recoque"
   file: content/fr/pages/alice-recoque/_index.html
+- title: Femmes
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
 
