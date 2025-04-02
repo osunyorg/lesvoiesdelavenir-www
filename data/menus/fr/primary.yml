@@ -41,6 +41,13 @@ items:
     children: []
     path: "/pages/femmes/delia-derbyshire"
     file: content/fr/pages/femmes/delia-derbyshire/_index.html
+  - title: Françoise Barré-Sinoussi
+    target: "/femmes/francoise-barre-sinoussi/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/francoise-barre-sinoussi"
+    file: content/fr/pages/femmes/francoise-barre-sinoussi/_index.html
   - title: Geneviève Beney
     target: "/femmes/genevieve-beney/"
     kind: page
@@ -55,6 +62,13 @@ items:
     children: []
     path: "/pages/femmes/hedy-lamarr"
     file: content/fr/pages/femmes/hedy-lamarr/_index.html
+  - title: Ítala Fulvia Villa
+    target: "/femmes/itala-fulvia-villa/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/itala-fulvia-villa"
+    file: content/fr/pages/femmes/itala-fulvia-villa/_index.html
   - title: Jocelyn Bell Burnell
     target: "/femmes/jocelyn-bell-burnell/"
     kind: page
@@ -69,34 +83,6 @@ items:
     children: []
     path: "/pages/femmes/judit-polgar"
     file: content/fr/pages/femmes/judit-polgar/_index.html
-  - title: Lee Miller
-    target: "/femmes/lee-miller/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/lee-miller"
-    file: content/fr/pages/femmes/lee-miller/_index.html
-  - title: Violette Dorange
-    target: "/femmes/violette-dorange/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/violette-dorange"
-    file: content/fr/pages/femmes/violette-dorange/_index.html
-  - title: Simone Veil
-    target: "/femmes/simone-veil/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/simone-veil"
-    file: content/fr/pages/femmes/simone-veil/_index.html
-  - title: Ítala Fulvia Villa
-    target: "/femmes/itala-fulvia-villa/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/itala-fulvia-villa"
-    file: content/fr/pages/femmes/itala-fulvia-villa/_index.html
   - title: Katherine Johnson
     target: "/femmes/katherine-johnson/"
     kind: page
@@ -111,13 +97,27 @@ items:
     children: []
     path: "/pages/femmes/kathrine-switzer"
     file: content/fr/pages/femmes/kathrine-switzer/_index.html
-  - title: Françoise Barré-Sinoussi
-    target: "/femmes/francoise-barre-sinoussi/"
+  - title: Lee Miller
+    target: "/femmes/lee-miller/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/femmes/francoise-barre-sinoussi"
-    file: content/fr/pages/femmes/francoise-barre-sinoussi/_index.html
+    path: "/pages/femmes/lee-miller"
+    file: content/fr/pages/femmes/lee-miller/_index.html
+  - title: Simone Veil
+    target: "/femmes/simone-veil/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/simone-veil"
+    file: content/fr/pages/femmes/simone-veil/_index.html
+  - title: Violette Dorange
+    target: "/femmes/violette-dorange/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/violette-dorange"
+    file: content/fr/pages/femmes/violette-dorange/_index.html
   path: "/pages/femmes"
   file: content/fr/pages/femmes/_index.html
 - title: A propos
