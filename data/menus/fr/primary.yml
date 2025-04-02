@@ -2,8 +2,8 @@
 title: Menu principal
 items:
 - title: Femmes
-  target: ''
-  kind: blank
+  target: "/femmes/"
+  kind: page
   new_tab: false
   children:
   - title: Hedy Lamarr
@@ -20,4 +20,6 @@ items:
     children: []
     path: "/pages/femmes/alice-recoque"
     file: content/fr/pages/femmes/alice-recoque/_index.html
+  path: "/pages/femmes"
+  file: content/fr/pages/femmes/_index.html
 
