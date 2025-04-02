@@ -97,6 +97,27 @@ items:
     children: []
     path: "/pages/femmes/camille-claudel"
     file: content/fr/pages/femmes/camille-claudel/_index.html
+  - title: Ítala Fulvia Villa
+    target: "/femmes/itala-fulvia-villa/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/itala-fulvia-villa"
+    file: content/fr/pages/femmes/itala-fulvia-villa/_index.html
+  - title: Katherine Johnson
+    target: "/femmes/katherine-johnson/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/katherine-johnson"
+    file: content/fr/pages/femmes/katherine-johnson/_index.html
+  - title: Kathrine Switzer
+    target: "/femmes/kathrine-switzer/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/kathrine-switzer"
+    file: content/fr/pages/femmes/kathrine-switzer/_index.html
   path: "/pages/femmes"
   file: content/fr/pages/femmes/_index.html
 - title: A propos
