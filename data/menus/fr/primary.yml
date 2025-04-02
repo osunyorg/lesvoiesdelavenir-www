@@ -36,4 +36,11 @@ items:
     file: content/fr/pages/femmes/delia-derbyshire/_index.html
   path: "/pages/femmes"
   file: content/fr/pages/femmes/_index.html
+- title: A propos
+  target: "/a-propos/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/a-propos"
+  file: content/fr/pages/a-propos/_index.html
 
