@@ -7,12 +7,12 @@ items:
   new_tab: false
   children:
   - title: Hedy Lamarr
-    target: "/hedy-lamarr/"
+    target: "/femmes/hedy-lamarr/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/hedy-lamarr"
-    file: content/fr/pages/hedy-lamarr/_index.html
+    path: "/pages/femmes/hedy-lamarr"
+    file: content/fr/pages/femmes/hedy-lamarr/_index.html
   - title: Alice Recoque
     target: "/femmes/alice-recoque/"
     kind: page
