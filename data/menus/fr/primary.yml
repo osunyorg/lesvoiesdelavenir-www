@@ -27,6 +27,13 @@ items:
     children: []
     path: "/pages/femmes/annie-ernaux"
     file: content/fr/pages/femmes/annie-ernaux/_index.html
+  - title: Camille Claudel
+    target: "/femmes/camille-claudel/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/camille-claudel"
+    file: content/fr/pages/femmes/camille-claudel/_index.html
   - title: Hedy Lamarr
     target: "/femmes/hedy-lamarr/"
     kind: page
@@ -48,13 +55,6 @@ items:
     children: []
     path: "/pages/femmes/violette-dorange"
     file: content/fr/pages/femmes/violette-dorange/_index.html
-  - title: Camille Claudel
-    target: "/femmes/camille-claudel/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/camille-claudel"
-    file: content/fr/pages/femmes/camille-claudel/_index.html
   - title: Geneviève Beney
     target: "/femmes/genevieve-beney/"
     kind: page
