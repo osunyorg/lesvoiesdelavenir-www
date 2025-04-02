@@ -14,10 +14,10 @@ items:
     path: "/pages/hedy-lamarr"
     file: content/fr/pages/hedy-lamarr/_index.html
   - title: Alice Recoque
-    target: "/alice-recoque/"
+    target: "/femmes/alice-recoque/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/alice-recoque"
-    file: content/fr/pages/alice-recoque/_index.html
+    path: "/pages/femmes/alice-recoque"
+    file: content/fr/pages/femmes/alice-recoque/_index.html
 
