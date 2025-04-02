@@ -34,13 +34,6 @@ items:
     children: []
     path: "/pages/femmes/camille-claudel"
     file: content/fr/pages/femmes/camille-claudel/_index.html
-  - title: Hedy Lamarr
-    target: "/femmes/hedy-lamarr/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/hedy-lamarr"
-    file: content/fr/pages/femmes/hedy-lamarr/_index.html
   - title: Delia Derbyshire
     target: "/femmes/delia-derbyshire/"
     kind: page
@@ -48,6 +41,13 @@ items:
     children: []
     path: "/pages/femmes/delia-derbyshire"
     file: content/fr/pages/femmes/delia-derbyshire/_index.html
+  - title: Hedy Lamarr
+    target: "/femmes/hedy-lamarr/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/hedy-lamarr"
+    file: content/fr/pages/femmes/hedy-lamarr/_index.html
   - title: Violette Dorange
     target: "/femmes/violette-dorange/"
     kind: page
