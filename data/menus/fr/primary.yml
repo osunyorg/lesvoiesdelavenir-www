@@ -1,18 +1,18 @@
 ---
 title: Menu principal
 items:
-- title: Hedy Lamarr
-  target: "/hedy-lamarr/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/hedy-lamarr"
-  file: content/fr/pages/hedy-lamarr/_index.html
 - title: Femmes
   target: ''
   kind: blank
   new_tab: false
   children:
+  - title: Hedy Lamarr
+    target: "/hedy-lamarr/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/hedy-lamarr"
+    file: content/fr/pages/hedy-lamarr/_index.html
   - title: Alice Recoque
     target: "/alice-recoque/"
     kind: page
