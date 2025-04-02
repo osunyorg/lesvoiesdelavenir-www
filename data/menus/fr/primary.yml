@@ -62,6 +62,13 @@ items:
     children: []
     path: "/pages/femmes/jocelyn-bell-burnell"
     file: content/fr/pages/femmes/jocelyn-bell-burnell/_index.html
+  - title: Judit Polgár
+    target: "/femmes/judit-polgar/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/judit-polgar"
+    file: content/fr/pages/femmes/judit-polgar/_index.html
   - title: Lee Miller
     target: "/femmes/lee-miller/"
     kind: page
@@ -76,13 +83,6 @@ items:
     children: []
     path: "/pages/femmes/violette-dorange"
     file: content/fr/pages/femmes/violette-dorange/_index.html
-  - title: Judit Polgár
-    target: "/femmes/judit-polgar/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/judit-polgar"
-    file: content/fr/pages/femmes/judit-polgar/_index.html
   - title: Simone Veil
     target: "/femmes/simone-veil/"
     kind: page
