@@ -1,4 +1,13 @@
-.block-pages .grid article .media img, 
+p
+    font-feature-settings: 'salt' on, 'ss02' on
+
+.block .top
+    margin-bottom: 1.5rem
+
+i
+    font-family: $font-serif
+
+.block-pages .grid article .media img,
 .block-pages .cards article .media img,
 .block-pages .list article .media img,
 .pages .grid article .media img,
@@ -7,8 +16,8 @@
     aspect-ratio: initial
 
 .hero .content hgroup.has-lead>p
-    color: #F7F5F2
-    background-color: #FF8B0F
+    color: $color-background
+    background-color: $color-accent
     font-family: $font-serif
     font-size: 24px
     border-radius: 24px
@@ -40,3 +49,10 @@ footer#document-footer .container + .container, footer#document-footer .containe
 
 footer#document-footer .container + .container
     align-items: flex-start
+
+.block-testimonials blockquote
+    p
+        font-style: normal
+        color: #000000
+        font-size: $quote-font-size
+        font-family: $font-sans
