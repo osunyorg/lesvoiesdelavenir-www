@@ -1,9 +1,9 @@
 // @include font-face("Font name", font-file-in-fonts-without-extensions)
 
-@include font-face("Charis SIL Regular", Charis SIL Regular, $exts: (woff2))
-@include font-face("Charis SIL Bold", Charis SIL Bold, $exts: (woff2))
-@include font-face("Charis SIL Bold Italic", Charis SIL Bold Italic, $exts: (woff2))
-@include font-face("Charis SIL Italic", Charis SIL Italic, $exts: (woff2))
+@include font-face("Charis", charis-sil-italic)
+@include font-face("Charis", charis-sil-italic, $style: italic)
+@include font-face("Charis", charis-sil-italic, $weight: bold)
+@include font-face("Charis", charis-sil-italic, $style: italic, $weight: bold)
 
-@include font-face("Inter Regular", Inter Variable, $weight: 100, $exts: (woff))
-@include font-face("Inter Regular", Charis SIL Italic, $exts: (woff))
+@include font-face("Inter", inter-v18-latin-regular)
+@include font-face("Inter", Charis SIL Italic, $exts: (woff))
