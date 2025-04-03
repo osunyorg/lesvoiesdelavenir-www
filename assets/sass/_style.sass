@@ -42,7 +42,6 @@ footer#document-footer .container + .container, footer#document-footer .containe
 
     >img
         height: 80px
-        // width: 100%
 
         @include small
         height: 60px
@@ -56,3 +55,31 @@ footer#document-footer .container + .container
         color: #000000
         font-size: $quote-font-size
         font-family: $font-sans
+
+blockquote
+    position: relative
+    padding: 32px 0
+    overflow: visible
+
+.quote
+    position: absolute
+    width: 80px
+    z-index: -9
+
+    @include small
+    width: 60px
+
+.quote-debut
+    transform: rotate(180deg)
+    left: -24px
+    top: 0
+
+    @include small
+    left: -12px
+    
+.quote-fin
+    right: -12px
+    bottom: 0
+
+    @include small
+    right: -12px
