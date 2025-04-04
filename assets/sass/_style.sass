@@ -35,12 +35,22 @@ i
 footer#document-footer .container + .container, footer#document-footer .container
     &.financement
         display: flex
-        flex-direction: column
+        flex-direction: row-reverse
+        justify-content: space-between
+        align-items: flex-end
         gap: 24px
         p 
             font-size: 16px
             max-width: 720px
             margin-top: 0
+.all-financement
+    display: flex
+    flex-direction: column
+    align-items: flex-end
+    gap: 24px
+
+    p 
+        text-align: end
 
 .logo-financement
     display: flex
@@ -54,8 +64,44 @@ footer#document-footer .container + .container, footer#document-footer .containe
         @include small
         height: 60px
 
-footer#document-footer .container + .container
-    align-items: flex-start
+footer#document-footer .container 
+    align-items: flex-end
+    padding-bottom: 0
+footer#document-footer 
+    padding-bottom: 20px
+
+footer#document-footer 
+    position: relative
+    overflow: hidden
+    hr
+        margin: 20px 62px 10px
+        @media (max-width: 1400px) 
+            margin: 20px 48px 10px 
+        @media (max-width: 992px) 
+            margin: 20px 24px 10px 
+    p 
+        font-size: 16px
+        line-height: 1.1
+    
+    .search-button 
+        font-size: 24px !important
+
+    .menu-footer a 
+        font-size: 24px !important
+
+    .footer-site
+        width: 50%
+        align-items: flex-start
+
+
+    .nav-level-1 
+        display: flex
+        justify-content: space-between
+
+    .logo-final 
+        position: absolute
+
+
 
 .block-testimonials blockquote
     p
@@ -110,3 +156,4 @@ blockquote
         &:hover
             border: 2px solid #0E0E0E
             background-color: #0E0E0E
+
