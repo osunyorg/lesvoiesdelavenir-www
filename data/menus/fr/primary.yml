@@ -120,7 +120,7 @@ items:
   children: []
   path: "/pages/le-dispositif"
   file: content/fr/pages/le-dispositif/_index.html
-- title: A propos
+- title: À propos
   target: "/a-propos/"
   kind: page
   new_tab: false
