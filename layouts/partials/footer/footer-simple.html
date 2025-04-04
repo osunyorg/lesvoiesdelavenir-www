@@ -1,31 +1,67 @@
 <div class="container">
-    <div class="footer-logo">
+    <div class="footer-logo" >
       {{ partial "footer/logo.html" }}
     </div>
     <div class="footer-site">
-      {{ partial "footer/site.html" }}
+        <div class="menu-footer">
+            <div class="menu" id="navigation">
+                <ul class="nav-level-1 ">
+                    <li class=" has-children"><a href="/femmes/" >
+                        Femmes
+                        </a>
+                <div class="dropdown-menu" aria-labelledby="dropdown-femmes">
+                <ul class="nav-level-2 ">
+                </ul>
+                </div>
+                </li>
+                    <li><a href="/a-propos/" title="A propos">
+                            A propos
+                          </a>
+                          </li>
+                    <li class="nav-search">
+                  <button class="search-button search-button--primary" aria-expanded="false" aria-label="Rechercher">
+                    <span>Rechercher</span>
+                  </button>
+                    </li>
+                </ul>
+                        </div>
+        </div>
     </div>
+</div>
+<div style="margin: 150px ;"></div>
+<div class="container financement">
+    <div class="all-financement">
+        <div class="logo-financement">
+            <img class="block-image" src="/assets/images/logo/france2030.png" alt="">
+            <img src="/assets/images/logo/banque-territoire.png" alt="">
+        </div>
+        <p>Projet financé par le SGPI et opéré par la Banque des Territoires dans le cadre du PIA 3 - Territoires d’Innovation Pédagogique, sous l’égide de France 2030</p>
+    </div>
+
+    {{ partial "footer/credit.html" . }}
+    
+</div>
+<div>
+    <hr>
+    
 </div>
 
-<div class="container financement">
-    <div class="logo-financement">
-        <img class="block-image" src="/assets/images/logo/france2030.png" alt="">
-        <img src="/assets/images/logo/banque-territoire.png" alt="">
-    </div>
-    <p>Projet financé par le SGPI et opéré par la Banque des Territoires dans le cadre du PIA 3 - Territoires d’Innovation Pédagogique, sous l’égide de France 2030</p>
+<div class="container" style="overflow: hidden;">
+    <p>© 2025 Les voies de l’avenir</p>
+    <article class="page">
+        <p class="page-title">
+            <a href="//localhost:1313/a-propos/organisations/">Organisations</a>
+        </p>
+        <div class="media"></div>
+    </article>
+    <article class="page">
+        <p class="page-title">
+            <a href="//localhost:1313/a-propos/politique-de-confidentialite/">Politique de confidentialité</a>
+        </p>
+        <div class="media"></div>
+    </article>
+    <img src="/assets/images/logo-final.svg" width="400px"  class="logo-final" style="bottom: -170px; right: -170px; ">
+    <img src="/assets/images/logo-final.svg" width="130px"  class="logo-final" style="bottom: 150px; left: 300px; ">
+    <img src="/assets/images/logo-final.svg" width="40px"  class="logo-final" style="top: 90px; right: 600px; ">
 </div>
-  
-<div class="container">
-    <div class  ="footer-social">
-        {{ partial "footer/social.html" . }}
-    </div>
-    <div class="footer-legals">
-        {{ partial "footer/legals.html" . }}
-        {{ if and site.Params.search.active (in site.Params.search.positions "footer") }}
-        <div class="footer-search">
-            {{ partial "commons/search/button.html" "footer" }}
-        </div>
-        {{ end }}
-        {{ partial "footer/credit.html" . }}
-    </div>
-</div>
+
