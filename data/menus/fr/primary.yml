@@ -113,7 +113,14 @@ items:
     file: content/fr/pages/femmes/violette-dorange/_index.html
   path: "/pages/femmes"
   file: content/fr/pages/femmes/_index.html
-- title: A propos
+- title: Le dispositif
+  target: "/le-dispositif/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/le-dispositif"
+  file: content/fr/pages/le-dispositif/_index.html
+- title: À propos
   target: "/a-propos/"
   kind: page
   new_tab: false
