@@ -41,13 +41,6 @@ items:
     children: []
     path: "/pages/femmes/francoise-barre-sinoussi"
     file: content/fr/pages/femmes/francoise-barre-sinoussi/_index.html
-  - title: Geneviève Beney
-    target: "/femmes/aung-san-suu-kyi/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/aung-san-suu-kyi"
-    file: content/fr/pages/femmes/aung-san-suu-kyi/_index.html
   - title: Hedy Lamarr
     target: "/femmes/hedy-lamarr/"
     kind: page
