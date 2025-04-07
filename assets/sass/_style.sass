@@ -40,6 +40,9 @@ footer#document-footer .container + .container, footer#document-footer .containe
         align-items: flex-end
         margin: 40px 0
         gap: 24px
+        @media (max-width: 992px) 
+            gap: 5px
+            margin: 0px 0
         p 
             font-size: 16px
             max-width: 720px
@@ -168,4 +171,22 @@ blockquote
         &:hover
             border: 2px solid #0E0E0E
             background-color: #0E0E0E
+
+@media(max-width: 991.98px)
+    footer#document-footer .container+.container,footer#document-footer .container>*+*
+        margin-top: 10px !important
+    footer#document-footer .container+.container.financement,footer#document-footer .container.financement 
+        align-items: flex-start
+        display: flex
+        margin-top: 100px !important
+        flex-direction: column !important
+        gap: 32px
+        p 
+            text-align: start
+    .logo-financement 
+        display: flex
+        align-items: center
+        gap: 0px
+        img
+            width: fit-content
 
