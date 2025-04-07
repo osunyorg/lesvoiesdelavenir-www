@@ -48,13 +48,6 @@ items:
     children: []
     path: "/pages/femmes/francoise-barre-sinoussi"
     file: content/fr/pages/femmes/francoise-barre-sinoussi/_index.html
-  - title: Hedy Lamarr
-    target: "/femmes/hedy-lamarr/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/hedy-lamarr"
-    file: content/fr/pages/femmes/hedy-lamarr/_index.html
   - title: Gisèle Halimi
     target: "/femmes/gisele-halimi/"
     kind: page
@@ -62,6 +55,13 @@ items:
     children: []
     path: "/pages/femmes/gisele-halimi"
     file: content/fr/pages/femmes/gisele-halimi/_index.html
+  - title: Hedy Lamarr
+    target: "/femmes/hedy-lamarr/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/hedy-lamarr"
+    file: content/fr/pages/femmes/hedy-lamarr/_index.html
   - title: Ítala Fulvia Villa
     target: "/femmes/itala-fulvia-villa/"
     kind: page
