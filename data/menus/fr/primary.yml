@@ -118,6 +118,13 @@ items:
     children: []
     path: "/pages/femmes/rosa-bonheur"
     file: content/fr/pages/femmes/rosa-bonheur/_index.html
+  - title: Oumou Sangaré
+    target: "/femmes/oumou-sangare/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/oumou-sangare"
+    file: content/fr/pages/femmes/oumou-sangare/_index.html
   path: "/pages/femmes"
   file: content/fr/pages/femmes/_index.html
 - title: Le dispositif
