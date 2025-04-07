@@ -146,6 +146,13 @@ items:
     children: []
     path: "/pages/femmes/wangari-muta-maathai"
     file: content/fr/pages/femmes/wangari-muta-maathai/_index.html
+  - title: Sarah Maldoror
+    target: "/femmes/sarah-maldoror/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/sarah-maldoror"
+    file: content/fr/pages/femmes/sarah-maldoror/_index.html
   path: "/pages/femmes"
   file: content/fr/pages/femmes/_index.html
 - title: Le dispositif
