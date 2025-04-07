@@ -27,13 +27,6 @@ items:
     children: []
     path: "/pages/femmes/camille-claudel"
     file: content/fr/pages/femmes/camille-claudel/_index.html
-  - title: Fatima Ouassak
-    target: "/femmes/fatima-ouassak/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/fatima-ouassak"
-    file: content/fr/pages/femmes/fatima-ouassak/_index.html
   - title: Delia Derbyshire
     target: "/femmes/delia-derbyshire/"
     kind: page
@@ -41,6 +34,13 @@ items:
     children: []
     path: "/pages/femmes/delia-derbyshire"
     file: content/fr/pages/femmes/delia-derbyshire/_index.html
+  - title: Fatima Ouassak
+    target: "/femmes/fatima-ouassak/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/fatima-ouassak"
+    file: content/fr/pages/femmes/fatima-ouassak/_index.html
   - title: Françoise Barré-Sinoussi
     target: "/femmes/francoise-barre-sinoussi/"
     kind: page
@@ -132,6 +132,13 @@ items:
     children: []
     path: "/pages/femmes/gisele-halimi"
     file: content/fr/pages/femmes/gisele-halimi/_index.html
+  - title: Ellen Johnson Sirleaf
+    target: "/femmes/ellen-johnson-sirleaf/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/ellen-johnson-sirleaf"
+    file: content/fr/pages/femmes/ellen-johnson-sirleaf/_index.html
   path: "/pages/femmes"
   file: content/fr/pages/femmes/_index.html
 - title: Le dispositif
