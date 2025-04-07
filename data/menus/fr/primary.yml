@@ -118,6 +118,13 @@ items:
     children: []
     path: "/pages/femmes/rosa-bonheur"
     file: content/fr/pages/femmes/rosa-bonheur/_index.html
+  - title: Sarah Maldoror
+    target: "/femmes/sarah-maldoror/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/sarah-maldoror"
+    file: content/fr/pages/femmes/sarah-maldoror/_index.html
   - title: Simone Veil
     target: "/femmes/simone-veil/"
     kind: page
@@ -146,13 +153,6 @@ items:
     children: []
     path: "/pages/femmes/wangari-muta-maathai"
     file: content/fr/pages/femmes/wangari-muta-maathai/_index.html
-  - title: Sarah Maldoror
-    target: "/femmes/sarah-maldoror/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/sarah-maldoror"
-    file: content/fr/pages/femmes/sarah-maldoror/_index.html
   path: "/pages/femmes"
   file: content/fr/pages/femmes/_index.html
 - title: Le dispositif
