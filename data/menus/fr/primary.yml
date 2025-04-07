@@ -111,13 +111,6 @@ items:
     children: []
     path: "/pages/femmes/simone-veil"
     file: content/fr/pages/femmes/simone-veil/_index.html
-  - title: Violette Dorange
-    target: "/femmes/violette-dorange/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/violette-dorange"
-    file: content/fr/pages/femmes/violette-dorange/_index.html
   - title: Rosa Bonheur
     target: "/femmes/rosa-bonheur/"
     kind: page
@@ -125,6 +118,13 @@ items:
     children: []
     path: "/pages/femmes/rosa-bonheur"
     file: content/fr/pages/femmes/rosa-bonheur/_index.html
+  - title: Violette Dorange
+    target: "/femmes/violette-dorange/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/violette-dorange"
+    file: content/fr/pages/femmes/violette-dorange/_index.html
   - title: Oumou Sangaré
     target: "/femmes/oumou-sangare/"
     kind: page
