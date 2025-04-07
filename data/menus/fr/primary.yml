@@ -55,6 +55,13 @@ items:
     children: []
     path: "/pages/femmes/hedy-lamarr"
     file: content/fr/pages/femmes/hedy-lamarr/_index.html
+  - title: Gisèle Halimi
+    target: "/femmes/gisele-halimi/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/gisele-halimi"
+    file: content/fr/pages/femmes/gisele-halimi/_index.html
   - title: Ítala Fulvia Villa
     target: "/femmes/itala-fulvia-villa/"
     kind: page
@@ -97,13 +104,6 @@ items:
     children: []
     path: "/pages/femmes/lee-miller"
     file: content/fr/pages/femmes/lee-miller/_index.html
-  - title: Gisèle Halimi
-    target: "/femmes/gisele-halimi/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/gisele-halimi"
-    file: content/fr/pages/femmes/gisele-halimi/_index.html
   - title: Simone Veil
     target: "/femmes/simone-veil/"
     kind: page
