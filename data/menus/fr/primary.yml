@@ -27,6 +27,13 @@ items:
     children: []
     path: "/pages/femmes/camille-claudel"
     file: content/fr/pages/femmes/camille-claudel/_index.html
+  - title: Fatima Ouassak
+    target: "/femmes/fatima-ouassak/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/femmes/fatima-ouassak"
+    file: content/fr/pages/femmes/fatima-ouassak/_index.html
   - title: Delia Derbyshire
     target: "/femmes/delia-derbyshire/"
     kind: page
@@ -127,11 +134,4 @@ items:
   children: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
-- title: Fatima Ouassak
-  target: "/femmes/fatima-ouassak/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/femmes/fatima-ouassak"
-  file: content/fr/pages/femmes/fatima-ouassak/_index.html
 
