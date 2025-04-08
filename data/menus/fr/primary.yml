@@ -48,13 +48,6 @@ items:
     children: []
     path: "/pages/les-femmes/oumou-sangare"
     file: content/fr/pages/les-femmes/oumou-sangare/_index.html
-  - title: Rosa Bonheur
-    target: "/les-femmes/rosa-bonheur/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/les-femmes/rosa-bonheur"
-    file: content/fr/pages/les-femmes/rosa-bonheur/_index.html
   - title: Sarah Maldoror
     target: "/les-femmes/sarah-maldoror/"
     kind: page
@@ -175,6 +168,13 @@ items:
       children: []
       path: "/pages/les-femmes/delia-derbyshire"
       file: content/fr/pages/les-femmes/delia-derbyshire/_index.html
+    - title: Rosa Bonheur
+      target: "/les-femmes/rosa-bonheur/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/rosa-bonheur"
+      file: content/fr/pages/les-femmes/rosa-bonheur/_index.html
   path: "/pages/les-femmes"
   file: content/fr/pages/les-femmes/_index.html
 - title: Mettre en place l'expérience
