@@ -55,13 +55,6 @@ items:
     children: []
     path: "/pages/les-femmes/gisele-halimi"
     file: content/fr/pages/les-femmes/gisele-halimi/_index.html
-  - title: Hedy Lamarr
-    target: "/les-femmes/hedy-lamarr/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/les-femmes/hedy-lamarr"
-    file: content/fr/pages/les-femmes/hedy-lamarr/_index.html
   - title: Ítala Fulvia Villa
     target: "/les-femmes/itala-fulvia-villa/"
     kind: page
@@ -144,6 +137,13 @@ items:
       children: []
       path: "/pages/les-femmes/francoise-barre-sinoussi"
       file: content/fr/pages/les-femmes/francoise-barre-sinoussi/_index.html
+    - title: Hedy Lamarr
+      target: "/les-femmes/hedy-lamarr/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/hedy-lamarr"
+      file: content/fr/pages/les-femmes/hedy-lamarr/_index.html
     - title: Jocelyn Bell Burnell
       target: "/les-femmes/jocelyn-bell-burnell/"
       kind: page
