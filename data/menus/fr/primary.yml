@@ -41,13 +41,6 @@ items:
     children: []
     path: "/pages/les-femmes/kathrine-switzer"
     file: content/fr/pages/les-femmes/kathrine-switzer/_index.html
-  - title: Oumou Sangaré
-    target: "/les-femmes/oumou-sangare/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/les-femmes/oumou-sangare"
-    file: content/fr/pages/les-femmes/oumou-sangare/_index.html
   - title: Sarah Maldoror
     target: "/les-femmes/sarah-maldoror/"
     kind: page
@@ -168,6 +161,13 @@ items:
       children: []
       path: "/pages/les-femmes/delia-derbyshire"
       file: content/fr/pages/les-femmes/delia-derbyshire/_index.html
+    - title: Oumou Sangaré
+      target: "/les-femmes/oumou-sangare/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/oumou-sangare"
+      file: content/fr/pages/les-femmes/oumou-sangare/_index.html
     - title: Rosa Bonheur
       target: "/les-femmes/rosa-bonheur/"
       kind: page
