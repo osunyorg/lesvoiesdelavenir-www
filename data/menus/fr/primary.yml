@@ -83,13 +83,6 @@ items:
     children: []
     path: "/pages/les-femmes/kathrine-switzer"
     file: content/fr/pages/les-femmes/kathrine-switzer/_index.html
-  - title: Lee Miller
-    target: "/les-femmes/lee-miller/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/les-femmes/lee-miller"
-    file: content/fr/pages/les-femmes/lee-miller/_index.html
   - title: Oumou Sangaré
     target: "/les-femmes/oumou-sangare/"
     kind: page
@@ -162,7 +155,14 @@ items:
     target: ''
     kind: blank
     new_tab: false
-    children: []
+    children:
+    - title: Lee Miller
+      target: "/les-femmes/lee-miller/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/lee-miller"
+      file: content/fr/pages/les-femmes/lee-miller/_index.html
   path: "/pages/les-femmes"
   file: content/fr/pages/les-femmes/_index.html
 - title: Mettre en place l'expérience
