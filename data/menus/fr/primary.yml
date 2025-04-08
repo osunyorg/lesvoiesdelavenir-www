@@ -155,7 +155,7 @@ items:
     file: content/fr/pages/les-femmes/wangari-muta-maathai/_index.html
   path: "/pages/les-femmes"
   file: content/fr/pages/les-femmes/_index.html
-- title: Le Dispositif
+- title: Mettre en place l'expérience
   target: "/mettre-en-place/"
   kind: page
   new_tab: false
