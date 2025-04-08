@@ -41,13 +41,6 @@ items:
     children: []
     path: "/pages/les-femmes/kathrine-switzer"
     file: content/fr/pages/les-femmes/kathrine-switzer/_index.html
-  - title: Sarah Maldoror
-    target: "/les-femmes/sarah-maldoror/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/les-femmes/sarah-maldoror"
-    file: content/fr/pages/les-femmes/sarah-maldoror/_index.html
   - title: Simone Veil
     target: "/les-femmes/simone-veil/"
     kind: page
@@ -175,6 +168,13 @@ items:
       children: []
       path: "/pages/les-femmes/rosa-bonheur"
       file: content/fr/pages/les-femmes/rosa-bonheur/_index.html
+    - title: Sarah Maldoror
+      target: "/les-femmes/sarah-maldoror/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/sarah-maldoror"
+      file: content/fr/pages/les-femmes/sarah-maldoror/_index.html
   path: "/pages/les-femmes"
   file: content/fr/pages/les-femmes/_index.html
 - title: Mettre en place l'expérience
