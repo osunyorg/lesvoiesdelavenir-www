@@ -11,13 +11,6 @@ items:
     kind: blank
     new_tab: false
     children:
-    - title: Hedy Lamarr
-      target: "/les-femmes/hedy-lamarr/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/les-femmes/hedy-lamarr"
-      file: content/fr/pages/les-femmes/hedy-lamarr/_index.html
     - title: Annie Ernaux
       target: "/les-femmes/annie-ernaux/"
       kind: page
@@ -39,6 +32,13 @@ items:
       children: []
       path: "/pages/les-femmes/delia-derbyshire"
       file: content/fr/pages/les-femmes/delia-derbyshire/_index.html
+    - title: Hedy Lamarr
+      target: "/les-femmes/hedy-lamarr/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/hedy-lamarr"
+      file: content/fr/pages/les-femmes/hedy-lamarr/_index.html
     - title: Oumou Sangaré
       target: "/les-femmes/oumou-sangare/"
       kind: page
