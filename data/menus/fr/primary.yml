@@ -194,11 +194,4 @@ items:
   children: []
   path: "/pages/mettre-en-place"
   file: content/fr/pages/mettre-en-place/_index.html
-- title: Le Projet
-  target: "/le-projet/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/le-projet"
-  file: content/fr/pages/le-projet/_index.html
 
