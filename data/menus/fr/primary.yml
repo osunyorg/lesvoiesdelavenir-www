@@ -153,6 +153,11 @@ items:
     children: []
     path: "/pages/les-femmes/wangari-muta-maathai"
     file: content/fr/pages/les-femmes/wangari-muta-maathai/_index.html
+  - title: Science
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
   path: "/pages/les-femmes"
   file: content/fr/pages/les-femmes/_index.html
 - title: Mettre en place l'expérience
