@@ -20,13 +20,6 @@ items:
     children: []
     path: "/pages/les-femmes/itala-fulvia-villa"
     file: content/fr/pages/les-femmes/itala-fulvia-villa/_index.html
-  - title: Judit Polgár
-    target: "/les-femmes/judit-polgar/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/les-femmes/judit-polgar"
-    file: content/fr/pages/les-femmes/judit-polgar/_index.html
   - title: Katherine Johnson
     target: "/les-femmes/katherine-johnson/"
     kind: page
@@ -173,6 +166,13 @@ items:
     kind: blank
     new_tab: false
     children:
+    - title: Judit Polgár
+      target: "/les-femmes/judit-polgar/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/judit-polgar"
+      file: content/fr/pages/les-femmes/judit-polgar/_index.html
     - title: Violette Dorange
       target: "/les-femmes/violette-dorange/"
       kind: page
