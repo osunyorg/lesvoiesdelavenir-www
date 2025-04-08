@@ -41,13 +41,6 @@ items:
     children: []
     path: "/pages/les-femmes/ellen-johnson-sirleaf"
     file: content/fr/pages/les-femmes/ellen-johnson-sirleaf/_index.html
-  - title: Fatima Ouassak
-    target: "/les-femmes/fatima-ouassak/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/les-femmes/fatima-ouassak"
-    file: content/fr/pages/les-femmes/fatima-ouassak/_index.html
   - title: Gisèle Halimi
     target: "/les-femmes/gisele-halimi/"
     kind: page
@@ -156,6 +149,13 @@ items:
     kind: blank
     new_tab: false
     children:
+    - title: Fatima Ouassak
+      target: "/les-femmes/fatima-ouassak/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/fatima-ouassak"
+      file: content/fr/pages/les-femmes/fatima-ouassak/_index.html
     - title: Lee Miller
       target: "/les-femmes/lee-miller/"
       kind: page
