@@ -12,8 +12,8 @@ fr:
 
   permalinks:
     pages_categories: /:slug/
-    organizations: /a-propos/organisations/:slug/
-    organizations_categories: /a-propos/organisations/categories/:slug/
+    organizations: /organisations/:slug/
+    organizations_categories: /organisations/categories/:slug/
     persons: /a-propos/equipe/:slug/
     persons_categories: /a-propos/equipe/categories/:slug/
   taxonomies:
