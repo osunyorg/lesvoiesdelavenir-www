@@ -27,13 +27,6 @@ items:
     children: []
     path: "/pages/les-femmes/katherine-johnson"
     file: content/fr/pages/les-femmes/katherine-johnson/_index.html
-  - title: Simone Veil
-    target: "/les-femmes/simone-veil/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/les-femmes/simone-veil"
-    file: content/fr/pages/les-femmes/simone-veil/_index.html
   - title: Science
     target: ''
     kind: blank
@@ -100,6 +93,13 @@ items:
       children: []
       path: "/pages/les-femmes/lee-miller"
       file: content/fr/pages/les-femmes/lee-miller/_index.html
+    - title: Simone Veil
+      target: "/les-femmes/simone-veil/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/simone-veil"
+      file: content/fr/pages/les-femmes/simone-veil/_index.html
   - title: Artistique
     target: ''
     kind: blank
