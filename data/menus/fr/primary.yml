@@ -13,13 +13,6 @@ items:
     children: []
     path: "/pages/les-femmes/alice-recoque"
     file: content/fr/pages/les-femmes/alice-recoque/_index.html
-  - title: Ítala Fulvia Villa
-    target: "/les-femmes/itala-fulvia-villa/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/les-femmes/itala-fulvia-villa"
-    file: content/fr/pages/les-femmes/itala-fulvia-villa/_index.html
   - title: Katherine Johnson
     target: "/les-femmes/katherine-johnson/"
     kind: page
@@ -184,7 +177,14 @@ items:
     target: ''
     kind: blank
     new_tab: false
-    children: []
+    children:
+    - title: Ítala Fulvia Villa
+      target: "/les-femmes/itala-fulvia-villa/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/itala-fulvia-villa"
+      file: content/fr/pages/les-femmes/itala-fulvia-villa/_index.html
   path: "/pages/les-femmes"
   file: content/fr/pages/les-femmes/_index.html
 - title: Mettre en place l'expérience
