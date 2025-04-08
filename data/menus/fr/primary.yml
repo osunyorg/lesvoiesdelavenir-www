@@ -13,13 +13,6 @@ items:
     children: []
     path: "/pages/les-femmes/alice-recoque"
     file: content/fr/pages/les-femmes/alice-recoque/_index.html
-  - title: Annie Ernaux
-    target: "/les-femmes/annie-ernaux/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/les-femmes/annie-ernaux"
-    file: content/fr/pages/les-femmes/annie-ernaux/_index.html
   - title: Camille Claudel
     target: "/les-femmes/camille-claudel/"
     kind: page
@@ -168,6 +161,13 @@ items:
       children: []
       path: "/pages/les-femmes/hedy-lamarr"
       file: content/fr/pages/les-femmes/hedy-lamarr/_index.html
+    - title: Annie Ernaux
+      target: "/les-femmes/annie-ernaux/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/annie-ernaux"
+      file: content/fr/pages/les-femmes/annie-ernaux/_index.html
     - title: Delia Derbyshire
       target: "/les-femmes/delia-derbyshire/"
       kind: page
