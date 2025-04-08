@@ -167,7 +167,14 @@ items:
     target: ''
     kind: blank
     new_tab: false
-    children: []
+    children:
+    - title: Hedy Lamarr
+      target: "/les-femmes/hedy-lamarr/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/hedy-lamarr"
+      file: content/fr/pages/les-femmes/hedy-lamarr/_index.html
   path: "/pages/les-femmes"
   file: content/fr/pages/les-femmes/_index.html
 - title: Mettre en place l'expérience
