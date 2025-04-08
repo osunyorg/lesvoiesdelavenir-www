@@ -13,7 +13,23 @@ i
 .pages .grid article .media img,
 .pages .cards article .media img,
 .pages .list article .media img
-    aspect-ratio: initial
+   object-fit: initial
+
+.block-pages .cards article .media img,
+.block-pages .grid article .media img,
+.block-pages .list article .media img,
+.pages .cards article .media img,
+.pages .grid article .media img,
+.pages .list article .media img
+   height: 25rem
+   object-fit: contain
+
+main > .blocks .block-pages .grid,
+body.full-width .block-pages .grid, main > .blocks .block-pages .cards,
+body.full-width .block-pages .cards, main > .blocks .pages .grid,
+body.full-width .pages .grid, main > .blocks .pages .cards,
+body.full-width .pages .cards
+    grid-template-columns: repeat(4, 1fr)
 
 .hero .content hgroup.has-lead>p
     color: $color-background
