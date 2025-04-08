@@ -163,10 +163,10 @@ items:
   path: "/pages/le-dispositif"
   file: content/fr/pages/le-dispositif/_index.html
 - title: Le Projet
-  target: "/a-propos/"
+  target: "/le-projet/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/a-propos"
-  file: content/fr/pages/a-propos/_index.html
+  path: "/pages/le-projet"
+  file: content/fr/pages/le-projet/_index.html
 
