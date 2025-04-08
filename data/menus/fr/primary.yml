@@ -6,13 +6,6 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Alice Recoque
-    target: "/les-femmes/alice-recoque/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/les-femmes/alice-recoque"
-    file: content/fr/pages/les-femmes/alice-recoque/_index.html
   - title: Katherine Johnson
     target: "/les-femmes/katherine-johnson/"
     kind: page
@@ -178,6 +171,13 @@ items:
     kind: blank
     new_tab: false
     children:
+    - title: Alice Recoque
+      target: "/les-femmes/alice-recoque/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/alice-recoque"
+      file: content/fr/pages/les-femmes/alice-recoque/_index.html
     - title: Ítala Fulvia Villa
       target: "/les-femmes/itala-fulvia-villa/"
       kind: page
