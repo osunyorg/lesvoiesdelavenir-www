@@ -34,13 +34,6 @@ items:
     children: []
     path: "/pages/les-femmes/delia-derbyshire"
     file: content/fr/pages/les-femmes/delia-derbyshire/_index.html
-  - title: Ellen Johnson Sirleaf
-    target: "/les-femmes/ellen-johnson-sirleaf/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/les-femmes/ellen-johnson-sirleaf"
-    file: content/fr/pages/les-femmes/ellen-johnson-sirleaf/_index.html
   - title: Ítala Fulvia Villa
     target: "/les-femmes/itala-fulvia-villa/"
     kind: page
@@ -142,6 +135,13 @@ items:
     kind: blank
     new_tab: false
     children:
+    - title: Ellen Johnson Sirleaf
+      target: "/les-femmes/ellen-johnson-sirleaf/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/ellen-johnson-sirleaf"
+      file: content/fr/pages/les-femmes/ellen-johnson-sirleaf/_index.html
     - title: Fatima Ouassak
       target: "/les-femmes/fatima-ouassak/"
       kind: page
