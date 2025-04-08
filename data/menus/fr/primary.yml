@@ -48,13 +48,6 @@ items:
     children: []
     path: "/pages/les-femmes/fatima-ouassak"
     file: content/fr/pages/les-femmes/fatima-ouassak/_index.html
-  - title: Françoise Barré-Sinoussi
-    target: "/les-femmes/francoise-barre-sinoussi/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/les-femmes/francoise-barre-sinoussi"
-    file: content/fr/pages/les-femmes/francoise-barre-sinoussi/_index.html
   - title: Gisèle Halimi
     target: "/les-femmes/gisele-halimi/"
     kind: page
@@ -157,7 +150,14 @@ items:
     target: ''
     kind: blank
     new_tab: false
-    children: []
+    children:
+    - title: Françoise Barré-Sinoussi
+      target: "/les-femmes/francoise-barre-sinoussi/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/francoise-barre-sinoussi"
+      file: content/fr/pages/les-femmes/francoise-barre-sinoussi/_index.html
   path: "/pages/les-femmes"
   file: content/fr/pages/les-femmes/_index.html
 - title: Mettre en place l'expérience
