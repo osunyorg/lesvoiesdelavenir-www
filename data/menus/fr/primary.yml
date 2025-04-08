@@ -6,46 +6,6 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Politique
-    target: ''
-    kind: blank
-    new_tab: false
-    children:
-    - title: Ellen Johnson Sirleaf
-      target: "/les-femmes/ellen-johnson-sirleaf/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/les-femmes/ellen-johnson-sirleaf"
-      file: content/fr/pages/les-femmes/ellen-johnson-sirleaf/_index.html
-    - title: Fatima Ouassak
-      target: "/les-femmes/fatima-ouassak/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/les-femmes/fatima-ouassak"
-      file: content/fr/pages/les-femmes/fatima-ouassak/_index.html
-    - title: Gisèle Halimi
-      target: "/les-femmes/gisele-halimi/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/les-femmes/gisele-halimi"
-      file: content/fr/pages/les-femmes/gisele-halimi/_index.html
-    - title: Lee Miller
-      target: "/les-femmes/lee-miller/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/les-femmes/lee-miller"
-      file: content/fr/pages/les-femmes/lee-miller/_index.html
-    - title: Simone Veil
-      target: "/les-femmes/simone-veil/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/les-femmes/simone-veil"
-      file: content/fr/pages/les-femmes/simone-veil/_index.html
   - title: Artistique
     target: ''
     kind: blank
@@ -100,6 +60,46 @@ items:
       children: []
       path: "/pages/les-femmes/sarah-maldoror"
       file: content/fr/pages/les-femmes/sarah-maldoror/_index.html
+  - title: Politique
+    target: ''
+    kind: blank
+    new_tab: false
+    children:
+    - title: Ellen Johnson Sirleaf
+      target: "/les-femmes/ellen-johnson-sirleaf/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/ellen-johnson-sirleaf"
+      file: content/fr/pages/les-femmes/ellen-johnson-sirleaf/_index.html
+    - title: Fatima Ouassak
+      target: "/les-femmes/fatima-ouassak/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/fatima-ouassak"
+      file: content/fr/pages/les-femmes/fatima-ouassak/_index.html
+    - title: Gisèle Halimi
+      target: "/les-femmes/gisele-halimi/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/gisele-halimi"
+      file: content/fr/pages/les-femmes/gisele-halimi/_index.html
+    - title: Lee Miller
+      target: "/les-femmes/lee-miller/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/lee-miller"
+      file: content/fr/pages/les-femmes/lee-miller/_index.html
+    - title: Simone Veil
+      target: "/les-femmes/simone-veil/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/simone-veil"
+      file: content/fr/pages/les-femmes/simone-veil/_index.html
   - title: Science
     target: ''
     kind: blank
