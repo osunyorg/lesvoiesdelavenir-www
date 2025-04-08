@@ -69,13 +69,6 @@ items:
     children: []
     path: "/pages/les-femmes/itala-fulvia-villa"
     file: content/fr/pages/les-femmes/itala-fulvia-villa/_index.html
-  - title: Jocelyn Bell Burnell
-    target: "/les-femmes/jocelyn-bell-burnell/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/les-femmes/jocelyn-bell-burnell"
-    file: content/fr/pages/les-femmes/jocelyn-bell-burnell/_index.html
   - title: Judit Polgár
     target: "/les-femmes/judit-polgar/"
     kind: page
@@ -158,6 +151,13 @@ items:
       children: []
       path: "/pages/les-femmes/francoise-barre-sinoussi"
       file: content/fr/pages/les-femmes/francoise-barre-sinoussi/_index.html
+    - title: Jocelyn Bell Burnell
+      target: "/les-femmes/jocelyn-bell-burnell/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/jocelyn-bell-burnell"
+      file: content/fr/pages/les-femmes/jocelyn-bell-burnell/_index.html
   path: "/pages/les-femmes"
   file: content/fr/pages/les-femmes/_index.html
 - title: Mettre en place l'expérience
