@@ -1,130 +1,204 @@
 ---
 title: Menu principal
 items:
-- title: Femmes
-  target: "/femmes/"
+- title: Découvrir des parcours
+  target: "/les-femmes/"
   kind: page
   new_tab: false
   children:
-  - title: Alice Recoque
-    target: "/femmes/alice-recoque/"
-    kind: page
+  - title: Artistique
+    target: ''
+    kind: blank
     new_tab: false
-    children: []
-    path: "/pages/femmes/alice-recoque"
-    file: content/fr/pages/femmes/alice-recoque/_index.html
-  - title: Annie Ernaux
-    target: "/femmes/annie-ernaux/"
-    kind: page
+    children:
+    - title: Annie Ernaux
+      target: "/les-femmes/annie-ernaux/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/annie-ernaux"
+      file: content/fr/pages/les-femmes/annie-ernaux/_index.html
+    - title: Camille Claudel
+      target: "/les-femmes/camille-claudel/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/camille-claudel"
+      file: content/fr/pages/les-femmes/camille-claudel/_index.html
+    - title: Delia Derbyshire
+      target: "/les-femmes/delia-derbyshire/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/delia-derbyshire"
+      file: content/fr/pages/les-femmes/delia-derbyshire/_index.html
+    - title: Hedy Lamarr
+      target: "/les-femmes/hedy-lamarr/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/hedy-lamarr"
+      file: content/fr/pages/les-femmes/hedy-lamarr/_index.html
+    - title: Oumou Sangaré
+      target: "/les-femmes/oumou-sangare/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/oumou-sangare"
+      file: content/fr/pages/les-femmes/oumou-sangare/_index.html
+    - title: Rosa Bonheur
+      target: "/les-femmes/rosa-bonheur/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/rosa-bonheur"
+      file: content/fr/pages/les-femmes/rosa-bonheur/_index.html
+    - title: Sarah Maldoror
+      target: "/les-femmes/sarah-maldoror/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/sarah-maldoror"
+      file: content/fr/pages/les-femmes/sarah-maldoror/_index.html
+  - title: Politique
+    target: ''
+    kind: blank
     new_tab: false
-    children: []
-    path: "/pages/femmes/annie-ernaux"
-    file: content/fr/pages/femmes/annie-ernaux/_index.html
-  - title: Camille Claudel
-    target: "/femmes/camille-claudel/"
-    kind: page
+    children:
+    - title: Ellen Johnson Sirleaf
+      target: "/les-femmes/ellen-johnson-sirleaf/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/ellen-johnson-sirleaf"
+      file: content/fr/pages/les-femmes/ellen-johnson-sirleaf/_index.html
+    - title: Fatima Ouassak
+      target: "/les-femmes/fatima-ouassak/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/fatima-ouassak"
+      file: content/fr/pages/les-femmes/fatima-ouassak/_index.html
+    - title: Gisèle Halimi
+      target: "/les-femmes/gisele-halimi/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/gisele-halimi"
+      file: content/fr/pages/les-femmes/gisele-halimi/_index.html
+    - title: Lee Miller
+      target: "/les-femmes/lee-miller/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/lee-miller"
+      file: content/fr/pages/les-femmes/lee-miller/_index.html
+    - title: Simone Veil
+      target: "/les-femmes/simone-veil/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/simone-veil"
+      file: content/fr/pages/les-femmes/simone-veil/_index.html
+    - title: Aung San Suu Kyi
+      target: "/les-femmes/aung-san-suu-kyi/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/aung-san-suu-kyi"
+      file: content/fr/pages/les-femmes/aung-san-suu-kyi/_index.html
+  - title: Science
+    target: ''
+    kind: blank
     new_tab: false
-    children: []
-    path: "/pages/femmes/camille-claudel"
-    file: content/fr/pages/femmes/camille-claudel/_index.html
-  - title: Delia Derbyshire
-    target: "/femmes/delia-derbyshire/"
-    kind: page
+    children:
+    - title: Françoise Barré-Sinoussi
+      target: "/les-femmes/francoise-barre-sinoussi/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/francoise-barre-sinoussi"
+      file: content/fr/pages/les-femmes/francoise-barre-sinoussi/_index.html
+    - title: Hedy Lamarr
+      target: "/les-femmes/hedy-lamarr/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/hedy-lamarr"
+      file: content/fr/pages/les-femmes/hedy-lamarr/_index.html
+    - title: Jocelyn Bell Burnell
+      target: "/les-femmes/jocelyn-bell-burnell/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/jocelyn-bell-burnell"
+      file: content/fr/pages/les-femmes/jocelyn-bell-burnell/_index.html
+    - title: Wangari muta maathai
+      target: "/les-femmes/wangari-muta-maathai/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/wangari-muta-maathai"
+      file: content/fr/pages/les-femmes/wangari-muta-maathai/_index.html
+  - title: Sport
+    target: ''
+    kind: blank
     new_tab: false
-    children: []
-    path: "/pages/femmes/delia-derbyshire"
-    file: content/fr/pages/femmes/delia-derbyshire/_index.html
-  - title: Françoise Barré-Sinoussi
-    target: "/femmes/francoise-barre-sinoussi/"
-    kind: page
+    children:
+    - title: Judit Polgár
+      target: "/les-femmes/judit-polgar/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/judit-polgar"
+      file: content/fr/pages/les-femmes/judit-polgar/_index.html
+    - title: Kathrine Switzer
+      target: "/les-femmes/kathrine-switzer/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/kathrine-switzer"
+      file: content/fr/pages/les-femmes/kathrine-switzer/_index.html
+    - title: Violette Dorange
+      target: "/les-femmes/violette-dorange/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/violette-dorange"
+      file: content/fr/pages/les-femmes/violette-dorange/_index.html
+  - title: Technique
+    target: ''
+    kind: blank
     new_tab: false
-    children: []
-    path: "/pages/femmes/francoise-barre-sinoussi"
-    file: content/fr/pages/femmes/francoise-barre-sinoussi/_index.html
-  - title: Geneviève Beney
-    target: "/femmes/aung-san-suu-kyi/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/aung-san-suu-kyi"
-    file: content/fr/pages/femmes/aung-san-suu-kyi/_index.html
-  - title: Hedy Lamarr
-    target: "/femmes/hedy-lamarr/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/hedy-lamarr"
-    file: content/fr/pages/femmes/hedy-lamarr/_index.html
-  - title: Ítala Fulvia Villa
-    target: "/femmes/itala-fulvia-villa/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/itala-fulvia-villa"
-    file: content/fr/pages/femmes/itala-fulvia-villa/_index.html
-  - title: Jocelyn Bell Burnell
-    target: "/femmes/jocelyn-bell-burnell/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/jocelyn-bell-burnell"
-    file: content/fr/pages/femmes/jocelyn-bell-burnell/_index.html
-  - title: Judit Polgár
-    target: "/femmes/judit-polgar/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/judit-polgar"
-    file: content/fr/pages/femmes/judit-polgar/_index.html
-  - title: Katherine Johnson
-    target: "/femmes/katherine-johnson/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/katherine-johnson"
-    file: content/fr/pages/femmes/katherine-johnson/_index.html
-  - title: Kathrine Switzer
-    target: "/femmes/kathrine-switzer/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/kathrine-switzer"
-    file: content/fr/pages/femmes/kathrine-switzer/_index.html
-  - title: Lee Miller
-    target: "/femmes/lee-miller/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/lee-miller"
-    file: content/fr/pages/femmes/lee-miller/_index.html
-  - title: Simone Veil
-    target: "/femmes/simone-veil/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/simone-veil"
-    file: content/fr/pages/femmes/simone-veil/_index.html
-  - title: Violette Dorange
-    target: "/femmes/violette-dorange/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/femmes/violette-dorange"
-    file: content/fr/pages/femmes/violette-dorange/_index.html
-  path: "/pages/femmes"
-  file: content/fr/pages/femmes/_index.html
-- title: Le dispositif
-  target: "/le-dispositif/"
+    children:
+    - title: Alice Recoque
+      target: "/les-femmes/alice-recoque/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/alice-recoque"
+      file: content/fr/pages/les-femmes/alice-recoque/_index.html
+    - title: Ítala Fulvia Villa
+      target: "/les-femmes/itala-fulvia-villa/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/itala-fulvia-villa"
+      file: content/fr/pages/les-femmes/itala-fulvia-villa/_index.html
+    - title: Katherine Johnson
+      target: "/les-femmes/katherine-johnson/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-femmes/katherine-johnson"
+      file: content/fr/pages/les-femmes/katherine-johnson/_index.html
+  path: "/pages/les-femmes"
+  file: content/fr/pages/les-femmes/_index.html
+- title: Mettre en place l'expérience
+  target: "/mettre-en-place/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/le-dispositif"
-  file: content/fr/pages/le-dispositif/_index.html
-- title: À propos
-  target: "/a-propos/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/a-propos"
-  file: content/fr/pages/a-propos/_index.html
+  path: "/pages/mettre-en-place"
+  file: content/fr/pages/mettre-en-place/_index.html
 
