@@ -58,12 +58,16 @@ footer#document-footer .container + .container, footer#document-footer .containe
         margin: 40px 0
         gap: 24px
         @media (max-width: 992px)
-            gap: 5px
-            margin: 0px 0
+            gap: 30px
+            margin: 0 0px
+            flex-direction: column
+            align-items: flex-start
+            
+
         p
             font-size: 16px
             max-width: 720px
-            margin-top: 0
+            margin: 0
 
 .all-financement
     display: flex
@@ -79,6 +83,11 @@ footer#document-footer .container + .container, footer#document-footer .containe
     align-items: center
     flex-wrap: wrap
     gap: 16px
+    @media (max-width: 992px)
+        flex-direction: row !important
+        object-fit: contain
+        flex-wrap: nowrap 
+        margin-top: 70px
 
     >img
         height: 80px
@@ -183,7 +192,7 @@ blockquote
 
 @media(max-width: 991.98px)
     footer#document-footer .container+.container,footer#document-footer .container>*+*
-    margin-top: 10px !important
+    margin-top: 0px !important
     footer#document-footer .container+.container.financement,footer#document-footer .container.financement
         align-items: flex-start
         display: flex
@@ -201,3 +210,6 @@ blockquote
 
 .hero .content figure figcaption .credit
     overflow-wrap: break-word
+footer#document-footer .container + .container, footer#document-footer .container > * + *
+    @media (max-width: 991.98px) 
+        margin: 15px 0
