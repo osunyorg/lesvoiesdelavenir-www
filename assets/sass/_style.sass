@@ -1,11 +1,14 @@
+html
+  scroll-behavior: smooth
+
 p
-    font-feature-settings: 'salt' on, 'ss02' on
+  font-feature-settings: 'salt' on, 'ss02' on
 
 .block .top
-    margin-bottom: 1.5rem
+  margin-bottom: 1.5rem
 
 i
-    font-family: $font-serif
+  font-family: $font-serif
 
 .block-pages .grid article .media img,
 .block-pages .cards article .media img,
@@ -13,7 +16,7 @@ i
 .pages .grid article .media img,
 .pages .cards article .media img,
 .pages .list article .media img
-   object-fit: initial
+  object-fit: initial
 
 .block-pages .cards article .media img,
 .block-pages .grid article .media img,
@@ -21,195 +24,229 @@ i
 .pages .cards article .media img,
 .pages .grid article .media img,
 .pages .list article .media img
-   height: 25rem
-   object-fit: contain
+  padding: 1rem
+  height: 19rem
+  object-fit: contain
 
 main > .blocks .block-pages .grid,
 body.full-width .block-pages .grid, main > .blocks .block-pages .cards,
 body.full-width .block-pages .cards, main > .blocks .pages .grid,
 body.full-width .pages .grid, main > .blocks .pages .cards,
 body.full-width .pages .cards
-    grid-template-columns: repeat(4, 1fr)
+  grid-template-columns: repeat(4, 1fr)
 
-.hero .content hgroup.has-lead>p
-    color: $color-background
-    font-family: $font-serif
-    font-size: 24px
-    line-height: 50px
+.hero .content hgroup.has-lead > p
+  color: $color-background
+  font-family: $font-serif
+  font-size: 24px
+  line-height: 50px
 
-    >i
-        background-color: $color-accent
-        border-radius: 24px
-        padding: 0 12px
-        width: fit-content
+  > i
+    background-color: $color-accent
+    border-radius: 0
+    padding: 0 12px
+    width: fit-content
 
-    >b
-        background-color: #0E0E0E
-        border-radius: 24px
-        padding: 0 12px
-        width: fit-content
+  > b
+    background-color: #0E0E0E
+    border-radius: 0
+    padding: 0 12px
+    width: fit-content
 
 footer#document-footer .container + .container, footer#document-footer .container
-    &.financement
-        display: flex
-        flex-direction: row-reverse
-        justify-content: space-between
-        align-items: flex-end
-        margin: 40px 0
-        gap: 24px
-        @media (max-width: 992px)
-            gap: 30px
-            margin: 0 0px
-            flex-direction: column
-            align-items: flex-start
-            
+  &.financement
+    display: flex
+    flex-direction: row-reverse
+    justify-content: space-between
+    align-items: flex-end
+    margin: 40px 0
+    gap: 24px
+    @media (max-width: 992px)
+      gap: 30px
+      margin: 0 0px
+      flex-direction: column
+      align-items: flex-start
 
-        p
-            font-size: 16px
-            max-width: 720px
-            margin: 0
+
+    p
+      font-size: 16px
+      max-width: 720px
+      margin: 0
 
 .all-financement
-    display: flex
-    flex-direction: column
-    align-items: flex-end
-    gap: 24px
+  display: flex
+  flex-direction: column
+  align-items: flex-end
+  gap: 24px
 
-    p
-        text-align: end
+  p
+    text-align: end
 
 .logo-financement
-    display: flex
-    align-items: center
-    flex-wrap: wrap
-    gap: 16px
-    @media (max-width: 992px)
-        flex-direction: row !important
-        object-fit: contain
-        flex-wrap: nowrap 
-        margin-top: 70px
+  display: flex
+  align-items: center
+  flex-wrap: wrap
+  gap: 16px
+  @media (max-width: 992px)
+    flex-direction: row !important
+    object-fit: contain
+    flex-wrap: nowrap
+    margin-top: 70px
 
-    >img
-        height: 80px
+  > img
+    height: 80px
 
-        @include small
-        height: 60px
+    @include small
+    height: 60px
 
 footer#document-footer .container
-    align-items: flex-end
-    padding-bottom: 0
-footer#document-footer
-    padding-bottom: 20px
+  align-items: flex-end
+  padding-bottom: 0
 
 footer#document-footer
-    position: relative
-    overflow: hidden
-    hr
-        margin: 20px 62px 10px
-        @media (max-width: 1400px)
-            margin: 20px 48px 10px
-        @media (max-width: 992px)
-            margin: 20px 24px 10px
-    p
-        font-size: 16px
-        line-height: 1.1
+  padding-bottom: 20px
 
-    .page-title
-        height: auto
-        a
-            font-size: 16px
-            height: 17.6px
+footer#document-footer
+  position: relative
+  overflow: hidden
 
-    .search-button
-        font-size: 24px !important
+  hr
+    margin: 20px 62px 10px
+    @media (max-width: 1400px)
+      margin: 20px 48px 10px
+    @media (max-width: 992px)
+      margin: 20px 24px 10px
 
-    .menu-footer a
-        font-size: 24px !important
+  p
+    font-size: 16px
+    line-height: 1.1
 
-    .footer-site
-        width: 50%
-        align-items: flex-start
+  .page-title
+    height: auto
 
-    .nav-level-1
-        display: flex
-        justify-content: space-between
+    a
+      font-size: 16px
+      height: 17.6px
 
-    .logo-final
-        position: absolute
-        bottom: -170px
-        right: -170px
+  .search-button
+    font-size: 24px !important
+
+  .menu-footer a
+    font-size: 24px !important
+
+  .footer-site
+    width: 50%
+    align-items: flex-start
+
+  .nav-level-1
+    display: flex
+    justify-content: space-between
+
+  .logo-final
+    position: absolute
+    bottom: -170px
+    right: -170px
 
 .block-testimonials blockquote
-    p
-        font-style: normal
-        color: #000000
-        font-family: $font-sans
+  p
+    font-style: normal
+    color: #000000
+    font-family: $font-sans
 
 @media (min-width: 1200px)
-    .block-testimonials blockquote.is-long p
-        font-size: 30px
+  .block-testimonials blockquote.is-long p
+    font-size: 30px
 
 blockquote
-    position: relative
-    padding: 32px 0
-    overflow: visible
+  position: relative
+  padding: 32px 0
+  overflow: visible
 
 .quote
-    position: absolute
-    width: 80px
-    z-index: -9
+  position: absolute
+  width: 80px
+  z-index: -9
 
-    @include small
-    width: 60px
+  @include small
+  width: 60px
 
 .quote-debut
-    transform: rotate(180deg)
-    left: -24px
-    top: 0
+  transform: rotate(180deg)
+  left: -24px
+  top: 0
 
-    @include small
-    left: -12px
+  @include small
+  left: -12px
 
 .quote-fin
-    right: -12px
-    bottom: 0
+  right: -12px
+  bottom: 0
 
-    @include small
-    right: -12px
+  @include small
+  right: -12px
 
 .blocks .block-call_to_action .block-content, body.full-width .block-call_to_action .block-content
-    padding-top: 0rem
+  padding-top: 0rem
 
-    .actions>a
-        background-color: $color-background
-        color: #0E0E0E
-        border: 2px solid #0E0E0E
-        border-radius: 8px
+  .actions > a
+    background-color: $color-background
+    color: #0E0E0E
+    border: 2px solid #0E0E0E
+    border-radius: 0
+    padding: 16px 32px
 
-        &:hover
-            border: 2px solid #0E0E0E
-            background-color: #0E0E0E
+    &:hover
+      border: 2px solid #0E0E0E
+      background-color: #0E0E0E
 
 @media(max-width: 991.98px)
-    footer#document-footer .container+.container,footer#document-footer .container>*+*
-    margin-top: 0px !important
-    footer#document-footer .container+.container.financement,footer#document-footer .container.financement
-        align-items: flex-start
-        display: flex
-        margin-top: 100px !important
-        flex-direction: column !important
-        gap: 32px
-        p
-            text-align: start
-    .logo-financement
-        display: flex
-        align-items: center
-        gap: 0px
-        img
-            object-fit: contain
+  footer#document-footer .container + .container, footer#document-footer .container > * + *
+  margin-top: 0px !important
+  footer#document-footer .container + .container.financement, footer#document-footer .container.financement
+    align-items: flex-start
+    display: flex
+    margin-top: 100px !important
+    flex-direction: column !important
+    gap: 32px
+
+    p
+      text-align: start
+  .logo-financement
+    display: flex
+    align-items: center
+    gap: 0px
+
+    img
+      object-fit: contain
 
 .hero .content figure figcaption .credit
-    overflow-wrap: break-word
+  overflow-wrap: break-word
+
+.toc ol .active
+  color: $color-background
+
 footer#document-footer .container + .container, footer#document-footer .container > * + *
-    @media (max-width: 991.98px) 
-        margin: 15px 0
+  @media (max-width: 991.98px)
+    margin: 15px 0
+
+.toc ol .active
+  color: #0E0E0E
+  display: flex
+  align-items: center
+
+  &:before
+    content: ""
+    display: inline-block
+    background-color: #FF8B0F
+    height: 10px
+    width: 10px
+    margin-right: 10px
+    transition: background-color 0.3s ease, transform 0.3s ease
+
+.block-pages--cards .card:hover, .block-pages--cards .card:hover a, .block-pages--cards .card:hover .more
+  color: #0E0E0E
+
+.block-pages--cards .card:hover
+  background-color: $color-background
+  box-shadow: 0 0 0 4px #FF8B0F
+  transition: box-shadow 0.3s ease, transform 0.3s ease
