@@ -22,4 +22,9 @@ items:
   children: []
   path: "/pages/les-femmes"
   file: content/fr/pages/les-femmes/_index.html
+- title: Les métiers
+  target: "/metier"
+  kind: url
+  new_tab: false
+  children: []
 
