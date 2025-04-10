@@ -1,9 +1,9 @@
 ---
 title: Menu principal
 items:
-- title: Découvrir des parcours
-  target: "/les-femmes/"
-  kind: page
+- title: Les domaines
+  target: "/domaine"
+  kind: url
   new_tab: false
   children: []
   path: "/pages/les-femmes"
