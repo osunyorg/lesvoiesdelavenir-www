@@ -259,9 +259,33 @@ footer#document-footer .container + .container, footer#document-footer .containe
 .block-links li:hover, .block-links li:hover a
   color: unset
 
-.categories--grid article
-  padding: 2rem
+.categories--cards article .media img
+  padding: 16px
+
+.categories--cards article:hover, .categories--cards article:hover a, .categories--cards article:hover p
+  color: #0E0E0E
+
+.categories--cards article:hover
   background-color: $color-background-alt
+  box-shadow: inset 0 0 0 4px #FF8B0F
+  transition: box-shadow 0.3s ease, transform 0.3s ease
+
+.block-pages .grid article, .block-pages .cards article, .block-pages .list article, .pages .grid article, .pages .cards article, .pages .list article
+  padding: 24px
+  background-color: $color-background-alt
+
+.block-pages .grid article:hover,
+.block-pages .cards article:hover,
+.block-pages .list article:hover,
+.pages .grid article:hover,
+.pages .cards article:hover,
+.pages .list article:hover
+  box-shadow: inset 0 0 0 4px #FF8B0F
+  transition: box-shadow 0.3s ease, transform 0.3s ease
+
+.categories--grid article
+  background-color: $color-background-alt
+  padding: 24px
 
 .categories--grid article:hover
   box-shadow: inset 0 0 0 4px #FF8B0F
