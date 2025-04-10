@@ -36,7 +36,6 @@ body.full-width .pages .cards
   grid-template-columns: repeat(4, 1fr)
 
 .hero .content hgroup.has-lead > p
-  color: $color-background
   font-family: $font-serif
   font-size: 24px
   line-height: 50px
@@ -48,6 +47,7 @@ body.full-width .pages .cards
     width: fit-content
 
   > b
+    color: $color-background
     background-color: #0E0E0E
     border-radius: 0
     padding: 0 12px
@@ -66,7 +66,6 @@ footer#document-footer .container + .container, footer#document-footer .containe
       margin: 0 0px
       flex-direction: column
       align-items: flex-start
-
 
     p
       font-size: 16px
@@ -267,3 +266,9 @@ footer#document-footer .container + .container, footer#document-footer .containe
 .categories--grid article:hover
   box-shadow: inset 0 0 0 4px #FF8B0F
   transition: box-shadow 0.3s ease, transform 0.3s ease
+
+.block-call_to_action .call_to_action .description p
+  font-family: $font-sans
+  font-size: 22px
+  @media(max-width: 991.98px)
+    font-size: $body-size
