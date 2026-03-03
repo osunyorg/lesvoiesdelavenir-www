@@ -27,7 +27,7 @@
                   {{ with $aria_label -}} role="figure" aria-label="{{ . }}" {{- end }}>
                   <blockquote>
                     <img class="quote quote-debut" src="/assets/images/quote.svg" alt="">
-                    {{- partial "PrepareHTML" .text -}}
+                    {{- safeHTML .text -}}
                     <img class="quote quote-fin" src="/assets/images/quote.svg" alt="">
                   </blockquote>
                   {{ if or .photo .author .job -}}
@@ -44,10 +44,10 @@
                       {{ if or .author .job -}}
                         <p>
                           {{- if .author -}}
-                            <span class="signature">{{ partial "PrepareHTML" .author }}</span>
+                            <span class="signature">{{ safeHTML .author }}</span>
                           {{- end }}
                           {{- if .job -}}
-                            <span class="meta">{{- partial "PrepareHTML" .job -}}</span>
+                            <span class="meta">{{- safeHTML .job -}}</span>
                           {{- end }}
                         </p>
                       {{ end }}
