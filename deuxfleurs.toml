@@ -15,354 +15,354 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/femmes/equipe/"
+from = "/femmes/equipe/index.html"
 to = "/equipe/"
 
 [[redirects]]
-from = "/lycee-odilon-redon/"
+from = "/lycee-odilon-redon/index.html"
 to = "/organisations/lycee-odilon-redon/"
 
 [[redirects]]
-from = "/femmes/lee-miller/"
+from = "/femmes/lee-miller/index.html"
 to = "/les-femmes/lee-miller/"
 
 [[redirects]]
-from = "/baptiste-louis/"
+from = "/baptiste-louis/index.html"
 to = "/equipe/baptiste-louis/"
 
 [[redirects]]
-from = "/femme-d/"
+from = "/femme-d/index.html"
 to = "/les-femmes/femme-d/"
 
 [[redirects]]
-from = "/femmes/camille-claudel/"
+from = "/femmes/camille-claudel/index.html"
 to = "/les-femmes/camille-claudel/"
 
 [[redirects]]
-from = "/a-propos/equipe/baptiste-louis/"
+from = "/a-propos/equipe/baptiste-louis/index.html"
 to = "/equipe/baptiste-louis/"
 
 [[redirects]]
-from = "/femmes/wangari-muta-maathai/"
+from = "/femmes/wangari-muta-maathai/index.html"
 to = "/les-femmes/wangari-muta-maathai/"
 
 [[redirects]]
-from = "/femmes/simone-veil/"
+from = "/femmes/simone-veil/index.html"
 to = "/les-femmes/simone-veil/"
 
 [[redirects]]
-from = "/ar/"
+from = "/ar/index.html"
 to = "/les-femmes/alice-recoque/"
 
 [[redirects]]
-from = "/alice-recoque/"
+from = "/alice-recoque/index.html"
 to = "/les-femmes/alice-recoque/"
 
 [[redirects]]
-from = "/a-propos/organisations/universite-de-pau-et-des-pays-de-ladour/"
+from = "/a-propos/organisations/universite-de-pau-et-des-pays-de-ladour/index.html"
 to = "/organisations/universite-de-pau-et-des-pays-de-ladour/"
 
 [[redirects]]
-from = "/hugo-mensah/"
+from = "/hugo-mensah/index.html"
 to = "/equipe/hugo-mensah/"
 
 [[redirects]]
-from = "/a-propos/equipe-editoriale/"
+from = "/a-propos/equipe-editoriale/index.html"
 to = "/equipe-editoriale/"
 
 [[redirects]]
-from = "/le-dispositif/"
+from = "/le-dispositif/index.html"
 to = "/mettre-en-place/"
 
 [[redirects]]
-from = "/informaticienne/"
+from = "/informaticienne/index.html"
 to = "/metier/informaticienne/"
 
 [[redirects]]
-from = "/universite-de-pau-et-des-pays-de-ladour/"
+from = "/universite-de-pau-et-des-pays-de-ladour/index.html"
 to = "/organisations/universite-de-pau-et-des-pays-de-ladour/"
 
 [[redirects]]
-from = "/femmes/alice-recoque-1-1-1/"
+from = "/femmes/alice-recoque-1-1-1/index.html"
 to = "/les-femmes/winnie-mandela/"
 
 [[redirects]]
-from = "/nathan-vandaele/"
+from = "/nathan-vandaele/index.html"
 to = "/equipe/nathan-vandaele/"
 
 [[redirects]]
-from = "/femmes/alice-recoque-1/"
+from = "/femmes/alice-recoque-1/index.html"
 to = "/les-femmes/wangari-muta-maathai/"
 
 [[redirects]]
-from = "/a-propos/equipe/hugo-mensah/"
+from = "/a-propos/equipe/hugo-mensah/index.html"
 to = "/equipe/hugo-mensah/"
 
 [[redirects]]
-from = "/femmes/winnie-mandela/"
+from = "/femmes/winnie-mandela/index.html"
 to = "/les-femmes/winnie-mandela/"
 
 [[redirects]]
-from = "/femmes/ellen-johnson-sirleaf/"
+from = "/femmes/ellen-johnson-sirleaf/index.html"
 to = "/les-femmes/ellen-johnson-sirleaf/"
 
 [[redirects]]
-from = "/femmes/rosa-bonheur/"
+from = "/femmes/rosa-bonheur/index.html"
 to = "/les-femmes/rosa-bonheur/"
 
 [[redirects]]
-from = "/a-propos/plan-du-site/"
+from = "/a-propos/plan-du-site/index.html"
 to = "/plan-du-site/"
 
 [[redirects]]
-from = "/femmes/gisele-halimi/"
+from = "/femmes/gisele-halimi/index.html"
 to = "/les-femmes/gisele-halimi/"
 
 [[redirects]]
-from = "/a-propos/equipe/"
+from = "/a-propos/equipe/index.html"
 to = "/equipe/"
 
 [[redirects]]
-from = "/femmes/fatima-ouassak-1/"
+from = "/femmes/fatima-ouassak-1/index.html"
 to = "/les-femmes/rosa-bonheur/"
 
 [[redirects]]
-from = "/femmes/annie-ernaux/"
+from = "/femmes/annie-ernaux/index.html"
 to = "/les-femmes/annie-ernaux/"
 
 [[redirects]]
-from = "/sciences-technologie-et-sante/"
+from = "/sciences-technologie-et-sante/index.html"
 to = "/domaine/sciences-technologie-et-sante/"
 
 [[redirects]]
-from = "/a-propos/organisations/cci-nouvelle-aquitaine/"
+from = "/a-propos/organisations/cci-nouvelle-aquitaine/index.html"
 to = "/organisations/cci-nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/femmes/katherine-johnson/"
+from = "/femmes/katherine-johnson/index.html"
 to = "/les-femmes/katherine-johnson/"
 
 [[redirects]]
-from = "/femmes/delia-derbyshire/"
+from = "/femmes/delia-derbyshire/index.html"
 to = "/les-femmes/delia-derbyshire/"
 
 [[redirects]]
-from = "/femmes/judit-polgar/"
+from = "/femmes/judit-polgar/index.html"
 to = "/les-femmes/judit-polgar/"
 
 [[redirects]]
-from = "/violette-dorange/"
+from = "/violette-dorange/index.html"
 to = "/les-femmes/violette-dorange/"
 
 [[redirects]]
-from = "/loic-leforestier/"
+from = "/loic-leforestier/index.html"
 to = "/equipe/loic-leforestier/"
 
 [[redirects]]
-from = "/a-propos/mentions-legales/"
+from = "/a-propos/mentions-legales/index.html"
 to = "/mentions-legales/"
 
 [[redirects]]
-from = "/a-propos/actualites/"
+from = "/a-propos/actualites/index.html"
 to = "/actualites/"
 
 [[redirects]]
-from = "/ellen-johnson-sirleaf/"
+from = "/ellen-johnson-sirleaf/index.html"
 to = "/les-femmes/ellen-johnson-sirleaf/"
 
 [[redirects]]
-from = "/a-propos/equipe/coralie-alexandru/"
+from = "/a-propos/equipe/coralie-alexandru/index.html"
 to = "/equipe/coralie-alexandru/"
 
 [[redirects]]
-from = "/a-propos/equipe/line-cabaret/"
+from = "/a-propos/equipe/line-cabaret/index.html"
 to = "/equipe/line-cabaret/"
 
 [[redirects]]
-from = "/femmes/itala-fulvia-villa/"
+from = "/femmes/itala-fulvia-villa/index.html"
 to = "/les-femmes/itala-fulvia-villa/"
 
 [[redirects]]
-from = "/a-propos/equipe/loic-leforestier/"
+from = "/a-propos/equipe/loic-leforestier/index.html"
 to = "/equipe/loic-leforestier/"
 
 [[redirects]]
-from = "/femmes/alice-recoque/"
+from = "/femmes/alice-recoque/index.html"
 to = "/les-femmes/alice-recoque/"
 
 [[redirects]]
-from = "/hl/"
+from = "/hl/index.html"
 to = "/les-femmes/hedy-lamarr/"
 
 [[redirects]]
-from = "/femmes/alice-recoque-1-1/"
+from = "/femmes/alice-recoque-1-1/index.html"
 to = "/les-femmes/ellen-johnson-sirleaf/"
 
 [[redirects]]
-from = "/delia-derbyshire/"
+from = "/delia-derbyshire/index.html"
 to = "/les-femmes/delia-derbyshire/"
 
 [[redirects]]
-from = "/a-propos/accessibilite/"
+from = "/a-propos/accessibilite/index.html"
 to = "/accessibilite/"
 
 [[redirects]]
-from = "/tom-detaevernier/"
+from = "/tom-detaevernier/index.html"
 to = "/equipe/tom-detaevernier/"
 
 [[redirects]]
-from = "/les-femmes/camille-claudel-1/"
+from = "/les-femmes/camille-claudel-1/index.html"
 to = "/les-femmes/ada-lovelace/"
 
 [[redirects]]
-from = "/aung-san-suu-kyi/"
+from = "/aung-san-suu-kyi/index.html"
 to = "/les-femmes/aung-san-suu-kyi/"
 
 [[redirects]]
-from = "/metier/archiecte/"
+from = "/metier/archiecte/index.html"
 to = "/metier/architecte/"
 
 [[redirects]]
-from = "/a-propos/politique-de-confidentialite/"
+from = "/a-propos/politique-de-confidentialite/index.html"
 to = "/politique-de-confidentialite/"
 
 [[redirects]]
-from = "/a-propos/organisations/universite-de-bordeaux/"
+from = "/a-propos/organisations/universite-de-bordeaux/index.html"
 to = "/organisations/universite-de-bordeaux/"
 
 [[redirects]]
-from = "/coralie-alexandru/"
+from = "/coralie-alexandru/index.html"
 to = "/equipe/coralie-alexandru/"
 
 [[redirects]]
-from = "/universite-de-bordeaux/"
+from = "/universite-de-bordeaux/index.html"
 to = "/organisations/universite-de-bordeaux/"
 
 [[redirects]]
-from = "/line-cabaret/"
+from = "/line-cabaret/index.html"
 to = "/equipe/line-cabaret/"
 
 [[redirects]]
-from = "/femmes/fatima-ouassak/"
+from = "/femmes/fatima-ouassak/index.html"
 to = "/les-femmes/fatima-ouassak/"
 
 [[redirects]]
-from = "/kathrine-switzer/"
+from = "/kathrine-switzer/index.html"
 to = "/les-femmes/kathrine-switzer/"
 
 [[redirects]]
-from = "/femmes/sarah-maldoror/"
+from = "/femmes/sarah-maldoror/index.html"
 to = "/les-femmes/sarah-maldoror/"
 
 [[redirects]]
-from = "/femmes/hedy-lamarr/"
+from = "/femmes/hedy-lamarr/index.html"
 to = "/les-femmes/hedy-lamarr/"
 
 [[redirects]]
-from = "/a-propos/equipe/emma-dimbour/"
+from = "/a-propos/equipe/emma-dimbour/index.html"
 to = "/equipe/emma-dimbour/"
 
 [[redirects]]
-from = "/femmes/aung-san-suu-kyi/"
+from = "/femmes/aung-san-suu-kyi/index.html"
 to = "/les-femmes/aung-san-suu-kyi/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/"
+from = "/equipe/equipe-editoriale/index.html"
 to = "/equipe-editoriale/"
 
 [[redirects]]
-from = "/hedy-lamarr/"
+from = "/hedy-lamarr/index.html"
 to = "/les-femmes/hedy-lamarr/"
 
 [[redirects]]
-from = "/lettres-langues-et-arts/"
+from = "/lettres-langues-et-arts/index.html"
 to = "/domaine/lettres-langues-et-arts/"
 
 [[redirects]]
-from = "/academie-de-bordeaux/"
+from = "/academie-de-bordeaux/index.html"
 to = "/organisations/academie-de-bordeaux/"
 
 [[redirects]]
-from = "/itala-fulvia-villa/"
+from = "/itala-fulvia-villa/index.html"
 to = "/les-femmes/itala-fulvia-villa/"
 
 [[redirects]]
-from = "/cci-nouvelle-aquitaine/"
+from = "/cci-nouvelle-aquitaine/index.html"
 to = "/organisations/cci-nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/emma-dimbour/"
+from = "/emma-dimbour/index.html"
 to = "/equipe/emma-dimbour/"
 
 [[redirects]]
-from = "/femmes/oumou-sangare/"
+from = "/femmes/oumou-sangare/index.html"
 to = "/les-femmes/oumou-sangare/"
 
 [[redirects]]
-from = "/femmes/violette-dorange/"
+from = "/femmes/violette-dorange/index.html"
 to = "/les-femmes/violette-dorange/"
 
 [[redirects]]
-from = "/camille-claudel/"
+from = "/camille-claudel/index.html"
 to = "/les-femmes/camille-claudel/"
 
 [[redirects]]
-from = "/judit-polgar/"
+from = "/judit-polgar/index.html"
 to = "/les-femmes/judit-polgar/"
 
 [[redirects]]
-from = "/a-propos/equipe/lorenzo-le-roho/"
+from = "/a-propos/equipe/lorenzo-le-roho/index.html"
 to = "/equipe/lorenzo-le-roho/"
 
 [[redirects]]
-from = "/a-propos/equipe/nathan-vandaele/"
+from = "/a-propos/equipe/nathan-vandaele/index.html"
 to = "/equipe/nathan-vandaele/"
 
 [[redirects]]
-from = "/universite-bordeaux-montaigne/"
+from = "/universite-bordeaux-montaigne/index.html"
 to = "/organisations/universite-bordeaux-montaigne/"
 
 [[redirects]]
-from = "/femmes/nomfemme/"
+from = "/femmes/nomfemme/index.html"
 to = "/equipe/"
 
 [[redirects]]
-from = "/a-propos/organisations/academie-de-bordeaux/"
+from = "/a-propos/organisations/academie-de-bordeaux/index.html"
 to = "/organisations/academie-de-bordeaux/"
 
 [[redirects]]
-from = "/femmes/francoise-barre-sinoussi/"
+from = "/femmes/francoise-barre-sinoussi/index.html"
 to = "/les-femmes/francoise-barre-sinoussi/"
 
 [[redirects]]
-from = "/femmes/jocelyn-bell-burnell/"
+from = "/femmes/jocelyn-bell-burnell/index.html"
 to = "/les-femmes/jocelyn-bell-burnell/"
 
 [[redirects]]
-from = "/a-propos/organisations/universite-bordeaux-montaigne/"
+from = "/a-propos/organisations/universite-bordeaux-montaigne/index.html"
 to = "/organisations/universite-bordeaux-montaigne/"
 
 [[redirects]]
-from = "/femmes/"
+from = "/femmes/index.html"
 to = "/les-femmes/"
 
 [[redirects]]
-from = "/lorenzo-le-roho/"
+from = "/lorenzo-le-roho/index.html"
 to = "/equipe/lorenzo-le-roho/"
 
 [[redirects]]
-from = "/a-propos/organisations/"
+from = "/a-propos/organisations/index.html"
 to = "/organisations/"
 
 [[redirects]]
-from = "/femmes/genevieve-beney/"
+from = "/femmes/genevieve-beney/index.html"
 to = "/les-femmes/aung-san-suu-kyi/"
 
 [[redirects]]
-from = "/femmes/kathrine-switzer/"
+from = "/femmes/kathrine-switzer/index.html"
 to = "/les-femmes/kathrine-switzer/"
 
 [[redirects]]
-from = "/a-propos/equipe/tom-detaevernier/"
+from = "/a-propos/equipe/tom-detaevernier/index.html"
 to = "/equipe/tom-detaevernier/"
 
